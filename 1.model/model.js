@@ -81,3 +81,11 @@ Sequence
  *2.client.pengGangs.show() client.hold.update() 
  *3.client.chupai() 
 */
+
+react
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+//       DOM  =>router  =>page  =>component  =>class  =>functiion  =>get set change  =>date        //
+//array: arr[] indexOf push pop unshift shift splice slice sort reverse map filter reduce join
+//string: charAt indexOf substring split
+//data: this.state  param 
+/////////////////////////////////////////////////////////////////////////////////////////////////////
